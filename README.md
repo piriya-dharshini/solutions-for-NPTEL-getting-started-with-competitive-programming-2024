@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=piriya-dharshini&color=green)
+
 
 
 NPTEL GETTING STARTED WITH COMPETITVE PROGRAMMING 2024 SOLUTIONS PROGRAMMING QUESTIONS
